@@ -4,5 +4,6 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/chatterbox_project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/event app - final project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/event app - final project/EventApp" vcs="Git" />
   </component>
 </project>
